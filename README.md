@@ -87,9 +87,9 @@ htmlcov и храниться в файле с названием index.html.
 | src\__init__.py       | 100%     |
 | src\reports.py        | 97%      |
 | src\services.py       | 93%      |
-| src\utils.py          | 90%      |
-| src\views.py          | 0%       |
-| **Total**             | **85%**  | 
+| src\utils.py          | 91%      |
+| src\views.py          | 100%     |
+| **Total**             | **93%**  | 
 
 ## Документация:
 
